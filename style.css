@@ -1,0 +1,47 @@
+.firma {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    width: 30em;
+    height: 10em;
+    border: 3px solid blueviolet;
+    border-radius: 25px;
+}
+.foto {
+    border-radius: 21px;
+    height: 100%;
+}
+
+
+.informacion {
+    display: flex;
+    width: 100%;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 1em;
+}
+
+.nombre {
+    margin: 0px;
+}
+
+.titulo {
+    margin: 0px;
+}
+
+.trabajo {
+    margin: 0px;
+}
+
+.redes {
+    margin: 0px;
+}
+
+.enlace-redes {
+    margin-right: .5em;
+    color: blueviolet;
+}
